@@ -23,7 +23,7 @@ public class CountName {
        vector[7] = "juan";
        
         for (int i = 0; i < vector.length; i++) {
-            System.out.println("en la posicion  "+ i+ "esta el nombre"+ vector[i]);
+            System.out.println("en la posicion  "+ i+ "esta el nombre:"+ vector[i]);
             
         }
        
